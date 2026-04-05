@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#2b201a"/><stop offset="100%" stop-color="#9f6548"/></linearGradient></defs>
+  <rect width="800" height="600" fill="url(#g)"/>
+  <circle cx="580" cy="140" r="110" fill="#f7d0b4" fill-opacity="0.28"/>
+  <rect x="70" y="80" width="390" height="440" rx="28" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.18"/>
+  <text x="110" y="170" fill="#fff1e5" font-size="56" font-family="Georgia, serif">Styling</text>
+  <text x="110" y="245" fill="#fff1e5" font-size="56" font-family="Georgia, serif">session</text>
+  <text x="112" y="335" fill="#f8d7c0" font-size="26" font-family="Arial, sans-serif">Clean lines, smooth finish,</text>
+  <text x="112" y="372" fill="#f8d7c0" font-size="26" font-family="Arial, sans-serif">and a more polished look.</text>
+</svg>
