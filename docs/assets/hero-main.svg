@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 1700" role="img" aria-labelledby="title desc">
+<title>Luma campaign portrait</title>
+<desc>Abstract futuristic salon artwork for demo use.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#09090b"/>
+    <stop offset="55%" stop-color="#18131a"/>
+    <stop offset="100%" stop-color="#2f2339"/>
+  </linearGradient>
+  <radialGradient id="glow1" cx="25%" cy="20%" r="50%">
+    <stop offset="0%" stop-color="#ddb596" stop-opacity="0.9"/>
+    <stop offset="100%" stop-color="#ddb596" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="glow2" cx="75%" cy="25%" r="45%">
+    <stop offset="0%" stop-color="#8676ff" stop-opacity="0.7"/>
+    <stop offset="100%" stop-color="#8676ff" stop-opacity="0"/>
+  </radialGradient>
+  <linearGradient id="line" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#fff" stop-opacity="0.85"/>
+    <stop offset="100%" stop-color="#fff" stop-opacity="0.08"/>
+  </linearGradient>
+  <filter id="blur"><feGaussianBlur stdDeviation="28"/></filter>
+</defs>
+<rect width="100%" height="100%" fill="url(#bg)"/>
+<rect width="100%" height="100%" fill="url(#glow1)"/>
+<rect width="100%" height="100%" fill="url(#glow2)"/>
+<circle cx="1173" cy="796" r="77" fill="none" stroke="rgba(255,255,255,0.093)" />
+<circle cx="606" cy="169" r="177" fill="none" stroke="rgba(255,255,255,0.09)" />
+<circle cx="750" cy="930" r="139" fill="none" stroke="rgba(255,255,255,0.059)" />
+<circle cx="1199" cy="673" r="96" fill="none" stroke="rgba(255,255,255,0.09)" />
+<circle cx="561" cy="1394" r="130" fill="none" stroke="rgba(255,255,255,0.045)" />
+<circle cx="935" cy="950" r="165" fill="none" stroke="rgba(255,255,255,0.102)" />
+<ellipse cx="354" cy="228" rx="254" ry="144" fill="#8676ff" opacity="0.08" filter="url(#blur)"/>
+<ellipse cx="283" cy="1582" rx="268" ry="205" fill="#8676ff" opacity="0.08" filter="url(#blur)"/>
+<ellipse cx="891" cy="932" rx="225" ry="240" fill="#ddb596" opacity="0.08" filter="url(#blur)"/>
+<ellipse cx="1370" cy="1189" rx="260" ry="132" fill="#ddb596" opacity="0.08" filter="url(#blur)"/>
+<ellipse cx="1281" cy="176" rx="173" ry="232" fill="#8676ff" opacity="0.08" filter="url(#blur)"/>
+
+<path d="M868.0,170.0 C 616.0,306.0 462.0,544.0 448.0,816.0 C 420.0,1190.0 560.0,1479.0 812.0,1598.0" fill="none" stroke="url(#line)" stroke-width="4" opacity="0.8"/>
+<path d="M1008.0,238.00000000000003 C 756.0,340.0 616.0,612.0 630.0,935.0000000000001 C 644.0,1224.0 784.0000000000001,1445.0 1008.0,1564.0" fill="none" stroke="url(#line)" stroke-width="2.5" opacity="0.62"/>
+<path d="M700.0,374.0 C 644.0,510.0 644.0,646.0 728.0,765.0 C 784.0000000000001,833.0 797.9999999999999,935.0000000000001 770.0000000000001,1020.0 C 728.0,1173.0 812.0,1292.0 868.0,1428.0" fill="none" stroke="#f7efe6" stroke-width="1.5" opacity="0.55"/>
+<path d="M252.0,1292.0 Q 616.0,1054.0 1092.0,1190.0" fill="none" stroke="#fff" stroke-opacity="0.12" stroke-width="1.2"/>
+<rect x="84.0" y="102.0" width="1232.0" height="1496.0" rx="42" fill="none" stroke="rgba(255,255,255,0.11)"/>
+
+<g opacity="0.8">
+  <text x="112.0" y="204.0" fill="rgba(255,255,255,0.70)" font-family="Inter, Arial, sans-serif" font-size="22" letter-spacing="8">LUMA</text>
+  <text x="112.0" y="1564.0" fill="rgba(255,255,255,0.32)" font-family="Inter, Arial, sans-serif" font-size="18" letter-spacing="5">FICTIONAL DEMO VISUAL</text>
+</g>
+</svg>

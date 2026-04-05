@@ -14,8 +14,10 @@ if (menuToggle && siteNav) {
     menuToggle.setAttribute("aria-expanded", "false");
   };
 
-  const toggleMenu = () => {
+  const toggleMenu = (event) => {
+    event.stopPropagation();
     const isOpen = siteNav.classList.contains("open");
+
     if (isOpen) {
       closeMenu();
     } else {
@@ -48,7 +50,7 @@ if (demoForm) {
     const firstName = name.split(" ")[0] || "there";
 
     if (formSuccess) {
-      formSuccess.textContent = `Thanks, ${firstName}. This demo form is only for presentation, but it shows how a real inquiry form could work.`;
+      formSuccess.textContent = `Thanks, ${firstName}. This is a demo inquiry only, but it shows how a polished salon contact flow could work.`;
     }
 
     demoForm.reset();
