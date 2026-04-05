@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 900" role="img" aria-labelledby="title desc">
-<title>Luma texture study</title>
+<title>Ritik salon texture study</title>
 <desc>Abstract futuristic salon artwork for demo use.</desc>
 <defs>
   <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
@@ -42,7 +42,7 @@
 <rect x="528.0" y="180.0" width="462.0" height="486.00000000000006" rx="46" fill="rgba(255,255,255,0.05)" stroke="rgba(255,255,255,0.10)"/>
 
 <g opacity="0.8">
-  <text x="88.0" y="108.0" fill="rgba(255,255,255,0.70)" font-family="Inter, Arial, sans-serif" font-size="22" letter-spacing="8">LUMA</text>
+  <text x="88.0" y="108.0" fill="rgba(255,255,255,0.70)" font-family="Inter, Arial, sans-serif" font-size="22" letter-spacing="8">RITIK</text>
   <text x="88.0" y="828.0" fill="rgba(255,255,255,0.32)" font-family="Inter, Arial, sans-serif" font-size="18" letter-spacing="5">FICTIONAL DEMO VISUAL</text>
 </g>
 </svg>
