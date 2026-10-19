@@ -1,0 +1,7 @@
+:HL["/ritik-hair-salon-demo/_next/static/chunks/0-uxgu4-uo3ul.css","style"]
+:HL["https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Inter:wght@400;500;600;700;800&display=swap","style"]
+:HL["/ritik-hair-salon-demo/assets/studio-space.svg","image"]
+:HL["/ritik-hair-salon-demo/assets/detail-panel.svg","image"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"studio","h":96,"c":"$Q2"}]]
+0:{"b":"Ypf4OqrTnIWfvoY1cziLc","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

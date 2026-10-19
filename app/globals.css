@@ -154,7 +154,9 @@ textarea {
   font-size: 0.92rem;
   letter-spacing: 0.14em;
   text-transform: uppercase;
-  transition: color 0.2s ease, transform 0.2s ease;
+  transition:
+    color 0.2s ease,
+    transform 0.2s ease;
 }
 
 .site-nav a:hover,
@@ -191,8 +193,16 @@ textarea {
   overflow: hidden;
   color: var(--white);
   background:
-    radial-gradient(circle at 18% 20%, rgba(197, 149, 115, 0.18), transparent 20%),
-    radial-gradient(circle at 80% 12%, rgba(119, 87, 255, 0.12), transparent 22%),
+    radial-gradient(
+      circle at 18% 20%,
+      rgba(197, 149, 115, 0.18),
+      transparent 20%
+    ),
+    radial-gradient(
+      circle at 80% 12%,
+      rgba(119, 87, 255, 0.12),
+      transparent 22%
+    ),
     linear-gradient(135deg, rgba(7, 7, 8, 0.95), rgba(17, 17, 19, 0.92));
 }
 
@@ -203,7 +213,11 @@ textarea {
   width: 480px;
   height: 480px;
   border-radius: 50%;
-  background: radial-gradient(circle, rgba(199, 160, 124, 0.14), transparent 62%);
+  background: radial-gradient(
+    circle,
+    rgba(199, 160, 124, 0.14),
+    transparent 62%
+  );
   filter: blur(14px);
 }
 
@@ -301,7 +315,9 @@ textarea {
   padding: 0 22px;
   border-radius: 999px;
   font-weight: 700;
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  transition:
+    transform 0.2s ease,
+    box-shadow 0.2s ease;
 }
 
 .btn:hover {
@@ -369,8 +385,16 @@ textarea {
 
 .glow-card {
   background:
-    radial-gradient(circle at top left, rgba(152, 118, 255, 0.15), transparent 40%),
-    linear-gradient(180deg, rgba(255, 255, 255, 0.08), rgba(255, 255, 255, 0.04));
+    radial-gradient(
+      circle at top left,
+      rgba(152, 118, 255, 0.15),
+      transparent 40%
+    ),
+    linear-gradient(
+      180deg,
+      rgba(255, 255, 255, 0.08),
+      rgba(255, 255, 255, 0.04)
+    );
 }
 
 .panel-card span,
@@ -400,7 +424,11 @@ textarea {
 .section-dark {
   color: var(--white);
   background:
-    radial-gradient(circle at top right, rgba(199, 160, 124, 0.12), transparent 24%),
+    radial-gradient(
+      circle at top right,
+      rgba(199, 160, 124, 0.12),
+      transparent 24%
+    ),
     linear-gradient(180deg, #121214, #0b0b0c);
 }
 
@@ -687,7 +715,9 @@ textarea {
   border-radius: 16px;
   padding: 15px 16px;
   outline: none;
-  transition: border-color 0.2s ease, box-shadow 0.2s ease;
+  transition:
+    border-color 0.2s ease,
+    box-shadow 0.2s ease;
 }
 
 .demo-form input:focus,
